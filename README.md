@@ -1,0 +1,78 @@
+# H Jungle With t – WOW WAR TONIGHT～時には起こせよムーヴメント～(TWO MILLION MIX)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:13.03] たまにはこうして肩を並べて飲んで
+[00:18.68] ほんの少しだけ立ち止まってみたいよ
+[00:24.33] 純情を絵に描いた様な さんざんむなしい夜も
+[00:29.94] 笑って話せる今夜はいいね
+[00:35.94] 
+[00:36.05] 温泉でも行こうなんて いつも話している
+[00:41.34] 落ちついたら仲間で行こうなんて でも
+[00:46.90] 全然 暇にならずに時代が追いかけてくる
+[00:52.50] 走ることから 逃げたくなってる
+[01:00.00] 
+[00:58.20] Wow, wow wow, wow wow tonight
+[01:03.87] Wow, wow wow, wow wow forever
+[01:09.46] Wow, wow wow, wow wow tonight
+[01:15.14] Wow, wow wow, wow wow forever
+[01:29.64] 
+[01:20.85] 優しさに触れることより ふりまくことで
+[01:26.44] ずっと ずっと 今までやってきた
+[01:32.12] それでも損したなんて思ってないから今夜も
+[01:37.78] 何とか自分で自分を守れ
+[01:43.28] 
+[01:43.29] Wow, wow wow, wow wow tonight
+[01:48.90] Wow, wow wow, wow wow forever
+[01:54.65] Wow, wow wow, wow wow tonight
+[02:00.21] Wow, wow wow, wow wow forever
+[02:14.71] 
+[02:11.68] B U S A I K U H A M A D A
+[02:28.57] B U S A I K U H A M A D A
+[02:41.07] 
+[02:45.78] Hey! Hey! Hey! 時には起こせよムーヴメント
+[02:51.18] がっかりさせない期待に応えて 素敵で楽しい
+[02:53.34] いつもの俺らを捨てるよ
+[02:56.80] 自分で動き出さなきゃ 何も起こらない夜に
+[03:02.54] 何かを叫んで自分を壊せ!
+[03:08.54] 
+[03:08.21] Wow, wow wow, wow wow tonight
+[03:13.83] Wow, wow wow, wow wow forever
+[03:19.44] Wow, wow wow, wow wow tonight
+[03:25.15] Wow, wow wow, wow wow forever
+[03:39.65] 
+[03:30.75] Getting better begin to make it better
+[03:49.75] 
+[03:36.42] 思えば love song なんて歌って見るとき
+[03:42.07] 必ず目当ての誰かがいた様な
+[03:47.78] それでもなにかの役にはたってる 人生の
+[03:53.37] 流れる景色を必ず毎晩みている
+[03:59.10] 家に帰ったらひたすら眠るだけだから
+[04:04.68] ほんのひとときでも自分がどれだけやったか
+[04:10.26] 窓に映っている 素顔を誉めろ
+[04:17.26] 
+[04:15.98] Wow, wow wow, wow wow tonight
+[04:21.54] Wow, wow wow, wow wow forever
+[04:27.12] Wow, wow wow, wow wow tonight
+[04:32.82] Wow, wow wow, wow wow forever
+[04:47.32] 
+[04:38.59] いつのまにやら仲間はきっと増えてる
+[04:44.18] 明日がそっぽをむいても走りまくれよ
+[04:49.74] そうしてたまには 肩を並べて飲もうよ
+[04:58.74] 
+[04:55.47] Getting better begin to make it better
+[05:14.47] 
+[05:01.06] Wow, wow wow, wow wow tonight
+[05:06.74] Wow, wow wow, wow wow forever
+[05:12.40] Wow, wow wow, wow wow tonight
+[05:18.06] Wow, wow wow, wow wow forever
+[05:32.56] 
+[05:23.62] Wow, wow wow, wow wow tonight
+[05:29.37] Wow, wow wow, wow wow forever
+[05:35.03] Wow, wow wow, wow wow tonight
+[05:40.69] Wow, wow wow, wow wow forever
+[05:55.19] 
+[05:46.32] Wow, wow wow, wow wow tonight
+[05:51.94] Wow, wow wow, wow wow forever
+```
