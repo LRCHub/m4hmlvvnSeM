@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "WOW WAR TONIGHT～時には起こせよムーヴメント～(TWO MILLION MIX)",
+  "base_artist": "H Jungle With t",
+  "createdAt": "2026-03-19T10:00:45.496130Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WOW WAR TONIGHT～時には起こせよムーヴメント～(TWO MILLION MIX)",
+      "artist": "H Jungle With t",
+      "has_synced": true,
+      "path": "select/01_WOW_WAR_TONIGHT~時には起こせよムーヴメント~(TWO_MILLION_MIX)_H_Jungle_With_t.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WOW WAR TONIGHT〜時には起こせよムーヴメント〜 - TWO MILLION MIX",
+      "artist": "H Jungle With t",
+      "has_synced": true,
+      "path": "select/02_WOW_WAR_TONIGHT〜時には起こせよムーヴメント〜_-_TWO_MILLION_MIX_H_Jungle_With_t.lrc"
+    }
+  ]
+}
